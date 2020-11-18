@@ -70,9 +70,10 @@ li ul li:hover .deux{
         width: 100%;
         display: block;
         margin: 0;
+        animation: none;
     }
 
-    .deux {
+    li ul li:hover .deux {
         display: none;
     }
 }
